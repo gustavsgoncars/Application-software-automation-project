@@ -15,7 +15,7 @@
 
 **Instalācijas:**
    - Tiek izmantota Selenium biblotēka, kas nestrādā GitHub Codespace vidē, tādēļ lejuplādējiet final.py, ielas.xlsx un nos.xlsx, ievietojiet to sev vēlamā mapē (folder) tālākam darbam.
-   - Pārliecinieties, ka jūsu datorā ir ieninstalēts Python.
+   - Pārliecinieties, ka jūsu datorā ir instalēts Python.
    - Ieninstalējiet vajadzīgās biblotēkas (selenium, openpyxl, unidecode)
 
 ## Programmatūras palaišana
