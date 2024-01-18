@@ -35,3 +35,7 @@
 Skatiet video par programmas darbību un rezultātu šeit:
 
 ### https://youtu.be/8EJe9uKNFsY
+
+## Licence
+
+Šī programmatūra ir licencēta ar MIT licenci. [LICENSE](LICENSE.txt)
