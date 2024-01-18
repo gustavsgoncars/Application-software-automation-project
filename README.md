@@ -9,7 +9,7 @@
 
 - [unidecode](https://pypi.org/project/Unidecode/): Nodrošina iespēju stradāt ar latviešu valodā izmantotajiem burtiem.
 
-- re: Izmantota adrešu apstrādei.
+- [re](https://docs.python.org/3/library/re.html): Izmantota adrešu apstrādei.
 
 ## Pirms programmatūras palaišanas
 
