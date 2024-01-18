@@ -3,13 +3,13 @@
 Šis projekts ir izveidots ar mērķi automātiski iegūt informāciju par maršrutiem, kas jāveic no lietotāja ievadītās dzīves vietas, līdz RTU ēkām, kur norisināsies lietotāja lekcijas sekojošajā mēnesī. Projektā izmantotas nodarbibas.rtu.lv un Google Maps vietnes. Programma apstrādā lietotāja ievadīto informāciju, automātiski pārlūko nodarbibas.rtu.lv, iegūst lekciju informāciju, un tad izmanto Google Maps, lai aprēķinātu un iegūtu maršrutu no lietotāja norādītās izbraukšanas vietas līdz lekcijas norises vietai. Pēc tam informācija tiek saglabāta Excel failā.
 
 ## Izmantotās Python bibliotēkas
-selenium: Izmantota, lai automatizētu lietotāja darbību ar tīmekļa pārlūkiem un iegūtu informāciju no nodarbibas.rtu.lv un Google Maps.
+### selenium: Izmantota, lai automatizētu lietotāja darbību ar tīmekļa pārlūkiem un iegūtu informāciju no nodarbibas.rtu.lv un Google Maps.
 
-openpyxl: Izmantota, lai izveidotu Excel failu, kurā saglabātā informācija par lekciju laikiem, norises vietām un maršrutiem.
+### openpyxl: Izmantota, lai izveidotu Excel failu, kurā saglabātā informācija par lekciju laikiem, norises vietām un maršrutiem.
 
-unidecode: Nodrošina iespēju stradāt ar latviešu valodā izmantotajiem burtiem.
+### unidecode: Nodrošina iespēju stradāt ar latviešu valodā izmantotajiem burtiem.
 
-re: Izmantota adrešu apstrādei.
+### re: Izmantota adrešu apstrādei.
 
 ## Programmatūras izmantošanas metodes
 Sākotnēji programma uzdod jautājumu par lietotāja studiju kursu, kursa numuru, grupu, lietotāja pārlūka valodu, un noskaidro, vai lietotājs izbrauks no vienas vai dažādām adresēm sekojošajā mēnesī.
@@ -23,4 +23,4 @@ Beigās programma saglabā iegūto informāciju Excel failā, kuram tiek piešķ
 ## Programmas darbības piemērs
 Skatiet video par programmas darbību un rezultātu šeit:
 
-https://youtu.be/8EJe9uKNFsY
+### https://youtu.be/8EJe9uKNFsY
