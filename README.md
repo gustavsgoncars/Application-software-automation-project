@@ -11,7 +11,7 @@ unidecode: Nodrošina iespēju stradāt ar latviešu valodā izmantotajiem burti
 
 re: Izmantota adrešu apstrādei.
 
-Programmatūras izmantošanas metodes
+## Programmatūras izmantošanas metodes
 Sākotnēji programma uzdod jautājumu par lietotāja studiju kursu, kursa numuru, grupu, lietotāja pārlūka valodu, un noskaidro, vai lietotājs izbrauks no vienas vai dažādām adresēm sekojošajā mēnesī.
 
 Pēc ievadītās informācijas programma izmanto nodarbibas.rtu.lv, lai iegūtu lekciju grafiku, laiku un vietu.
