@@ -21,15 +21,15 @@
 ## Programmatūras palaišana
 
 1. **Lietotāja ievadītie dati**
-   Sākotnēji programma uzdod jautājumu par lietotāja studiju kursu, kursa numuru, grupu, lietotāja pārlūka valodu, un noskaidro, vai lietotājs izbrauks no vienas vai dažādām adresēm sekojošajā mēnesī. Šo informāciju lietotājs sniedz caur termināli, sekojot iespējamajām norādēm, par to kā ir jāievada informācija.
+   - Sākotnēji programma uzdod jautājumu par lietotāja studiju kursu, kursa numuru, grupu, lietotāja pārlūka valodu, un noskaidro, vai lietotājs izbrauks no vienas vai dažādām adresēm sekojošajā mēnesī. Šo informāciju lietotājs sniedz caur termināli, sekojot iespējamajām norādēm, par to kā ir jāievada informācija.
 2. **nodarbības.rtu.lv**
-   Pēc ievadītās informācijas programma izmanto nodarbibas.rtu.lv, lai iegūtu lekciju grafiku, laiku un vietu.
+   - Pēc ievadītās informācijas programma izmanto nodarbibas.rtu.lv, lai iegūtu lekciju grafiku, laiku un vietu.
 3. **Informācijas ievade Excel Sheet1**
-   Iegūtā informācija par dienām kurās ir lekcijas, cikos tās sākas un beidzas un kur tās notiek, tiek apkopota Excel failā.
+   - Iegūtā informācija par dienām kurās ir lekcijas, cikos tās sākas un beidzas un kur tās notiek, tiek apkopota Excel failā.
 4. **GoogleMaps**
-   GoogleMaps tiek ievadīta no Excel attiecīgā informācija un iegūts pārvietošanās maršruts. Katra iterācija ir attiecīgā mēneša diena. Tiek iegūta informācija par to cikos ir attiecīgajās dienās jāiziet no norādītās adreses, uz kurieni (kādu pieturu) jāiet, ar kādu transportu utt.
+   - GoogleMaps tiek ievadīta no Excel attiecīgā informācija un iegūts pārvietošanās maršruts. Katra iterācija ir attiecīgā mēneša diena. Tiek iegūta informācija par to cikos ir attiecīgajās dienās jāiziet no norādītās adreses, uz kurieni (kādu pieturu) jāiet, ar kādu transportu utt.
 5. **Informācijas ievade Excel Sheet2**
-   Informāciju ievada Excel failā un saglabājas ar dinamisko nosaukumu.
+   - Informāciju ievada Excel failā un saglabājas ar dinamisko nosaukumu.
 
 ## Programmas darbības piemērs
 Skatiet video par programmas darbību un rezultātu šeit:
